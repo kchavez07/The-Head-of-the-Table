@@ -142,6 +142,8 @@ y la tensión psicológica**.
 ---
 
 ## 👤 Autor
+
 **Kevin Jair Chávez Castro**  
-Game Developer especializado en Unreal Engine  
-IA, Sistemas Interactivos y Desarrollo de Herramientas
+Desarrollador de Videojuegos y Software  
+Enfoque en C++, programación de sistemas y desarrollo de aplicaciones interactivas.
+
