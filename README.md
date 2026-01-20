@@ -143,5 +143,5 @@ y la tensión psicológica**.
 
 ## 👤 Autor
 **Kevin Jair Chávez Castro**  
-Proyecto académico y de portafolio profesional  
-Universidad Cuauhtémoc, Plantel Querétaro
+Game Developer especializado en Unreal Engine  
+IA, Sistemas Interactivos y Desarrollo de Herramientas
